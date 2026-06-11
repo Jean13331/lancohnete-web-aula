@@ -1,6 +1,5 @@
-# Lanchonete do Bairro
-
-Site oficial da Lanchonete do Bairro.
+# lanchonete-web-aula
+*Projeto desenvolvido em aula*
 
 ## Como usar
 1. Abra o arquivo `index.html` no navegador
