@@ -13,3 +13,8 @@ function exibirCardapio() {
 }
 
 exibirCardapio();
+function filtrarPorCategoria(categoria) {
+    return cardapio.filter(item => item.categoria === categoria);
+}
+
+console.log("Lanches:", filtrarPorCategoria("Lanches"));
